@@ -1,7 +1,7 @@
 ## Olá mundo👋
 
 - 🔭 Hoje trabalho como desenvolvedor mobile
-- 🌱 Estudando Flutter
+- 🌱 Estudando Kotlin
 - 😄 Pronouns: ele/dele
 
 <div align="center">
