@@ -1,6 +1,6 @@
 ## Olá mundo👋
 
-- 🔭 Hoje trabalho como desenvolvedor mobile
+- 🔭 Hoje trabalho como Desenvolvedor Mobile
 - 🌱 Estudando Kotlin
 - 😄 Pronouns: ele/dele
 
