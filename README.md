@@ -11,11 +11,10 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Keventon-Dart" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Keventon-React" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Keventon-Java" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Keventon-Kotlin" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Keventon-Firebase" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-   <img align="center" alt="Keventon-React" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
   
   <div> 
