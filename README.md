@@ -1,7 +1,7 @@
 ## Olá mundo👋
 
-- 🔭 Hoje trabalho como Desenvolvedor Mobile
-- 🌱 Estudando React Native
+- 👨‍💻 Hoje trabalho como Desenvolvedor Mobile
+- 📚 Estudando React Native
 - 😄 Pronouns: ele/dele
 
 <div align="center">
