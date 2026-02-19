@@ -55,7 +55,8 @@
   <img src="https://img.shields.io/badge/Express-7B1FA2?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-68A063?style=for-the-badge&logo=spring&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>    
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>  
 
 ---  
