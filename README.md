@@ -36,10 +36,10 @@
 
 ### 💻 Linguagens
 <p>  
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Java-5A2CA0?style=for-the-badge&logo=openjdk&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/JavaScript-BA55D3?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=4B8BBE"/>  
+  <img src="https://img.shields.io/badge/Java-BC0B19?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>  
   <img src="https://img.shields.io/badge/TypeScript-1565C0?style=for-the-badge&logo=typescript&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Kotlin-7B1FA2?style=for-the-badge&logo=kotlin&logoColor=white"/>   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
@@ -62,11 +62,11 @@
 
 ### 🗄️ Bancos de Dados  
 <p>  
-  <img src="https://img.shields.io/badge/MySQL-7E57C2?style=for-the-badge&logo=mysql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PostgreSQL-6A1B9A?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MongoDB-9C27B0?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SQLite-AB47BC?style=for-the-badge&logo=sqlite&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=F29111"/>  
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=white"/>  
 </p> 
 
 ###
