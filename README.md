@@ -1,4 +1,4 @@
-<h2 align="left">Olá mundo👋<br><br>-👨‍💻 Hoje trabalho como Desenvolvedor Mobile (Kotlin e React Native)<br>- 😄 Pronouns: ele/dele</h2>
+n<h2 align="left">Olá mundo👋<br><br>-👨‍💻 Hoje trabalho como Desenvolvedor Mobile (Kotlin e React Native)<br>- 😄 Pronouns: ele/dele</h2>
 
 ## 📊 Atividade no GitHub  
 
@@ -8,7 +8,7 @@
 </div>  
 
 <p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelaSommer&bg_color=282a36&color=f8f8f2&line=bd93f9&point=bd93f9&area=true&hide_border=true"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keventon&bg_color=282a36&color=f8f8f2&line=bd93f9&point=bd93f9&area=true&hide_border=true"/>  
 </p>  
 
 ---  
