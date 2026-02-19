@@ -1,4 +1,4 @@
-n<h2 align="left">Olá mundo👋<br><br>-👨‍💻 Hoje trabalho como Desenvolvedor Mobile (Kotlin e React Native)<br>- 😄 Pronouns: ele/dele</h2>
+<h2 align="left">Olá mundo👋<br><br>-👨‍💻 Hoje trabalho como Desenvolvedor Mobile (Kotlin e React Native)<br>- 😄 Pronouns: ele/dele</h2>
 
 ## 📊 Atividade no GitHub  
 
