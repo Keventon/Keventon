@@ -1,13 +1,17 @@
 <h2 align="left">Olá mundo👋<br><br>-👨‍💻 Hoje trabalho como Desenvolvedor Mobile (Kotlin e React Native)<br>- 😄 Pronouns: ele/dele</h2>
 
-###
+## 📊 Atividade no GitHub  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keventon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keventon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats-mu-taupe-22.vercel.app/api?username=RafaelaSommer&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117" />  
+  <img height="180em" src="https://github-readme-stats-mu-taupe-22.vercel.app/api/top-langs/?username=Keventon&layout=compact&hide_border=true&title_color=8b5cf6&text_color=ffffff&bg_color=0d1117" />  
+</div>  
 
-###
+<p align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelaSommer&bg_color=282a36&color=f8f8f2&line=bd93f9&point=bd93f9&area=true&hide_border=true"/>  
+</p>  
+
+---  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
